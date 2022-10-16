@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<advancedsettings>
+  <video>
+    <enablehighqualityhwscalers>true</enablehighqualityhwscalers>
+  </video>
+  <fanartres>2160</fanartres>
+  <imageres>2160</imageres>
+  <cache>
+    <buffermode>1</buffermode>
+    <memorysize>278921216</memorysize>
+    <readfactor>20</readfactor>
+  </cache>
+</advancedsettings>
